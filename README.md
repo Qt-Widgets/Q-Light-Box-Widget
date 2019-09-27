@@ -3,7 +3,7 @@ QLightBoxWidget
 
 QLightBoxWidget is the Qt desktop widget analog javascript LightBox.
 
-![Screenshot](http://dimkanovikov.pro/img/content/projects/qlightboxwidget/1.png)
+![Screenshot](https://github.com/Qt-Widgets/Q-Light-Box-Widget/blob/master/1.png)
 
 Using:
 -------------
